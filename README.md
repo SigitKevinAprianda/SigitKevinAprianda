@@ -1,4 +1,4 @@
-## Hi Internet!! I,m Sigit Kevin Aprianda. 
+## Hi Internet!! I,m Sigit Kevin Aprianda
 ![Banner](img/BannerGithubPNG.png)
 
 
