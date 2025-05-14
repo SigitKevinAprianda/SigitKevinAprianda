@@ -1,22 +1,11 @@
 ## Hi Internet!! I,m Sigit Kevin Aprianda
 ![Banner](img/BannerGithubPNG.png)
 
+<div style="text-align: center;">
+  <img src="https://profile-counter.glitch.me/SigitKevinAprianda/count.svg?"  />
+</div>
 
-<!--
-**SigitKevinAprianda/SigitKevinAprianda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+### Digital Footage Here 😈
 
 ### 🛠️ Tech Stack
 - 🗺️ Programming: Java, Php
@@ -32,7 +21,7 @@ Here are some ideas to get you started:
 - RESTful APIs
 - Graphic Design with Figma
 - Front-End
-- Back-End (lil bit)
+- Back-End
 - Full Stack Dev (Plan)
 
 ### 🤖 Ask Me About
@@ -40,5 +29,13 @@ Here are some ideas to get you started:
 - Culture of my hometown (Ketapang, West Kalimantan Province, Indonesia)
 
 #### 📝 Word By Word
--- What makes us more proficient are the requests of the clients.
--- Seek your own freedom without depending on others. Don't be ... ah never mind.
+- -- What makes us more proficient are the requests of the clients.
+- -- Seek your own freedom without depending on others. Don't be ... ah never mind.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SigitKevinAprianda/SigitKevinAprianda/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SigitKevinAprianda/SigitKevinAprianda/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SigitKevinAprianda/SigitKevinAprianda/output/pacman-contribution-graph.svg">
+</picture>
+
+### pacMAN
