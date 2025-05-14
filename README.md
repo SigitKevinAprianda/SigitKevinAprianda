@@ -14,7 +14,7 @@
 - 🔏 Database: Mysql
 - 🔧 Tools: Git, Terminal, Visual Studio Code, Figma, XAMPP, Intellij
 ###### Badge Here
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
 <img src="{BadgeURLHere}" />
 <br>
 <img src="{BadgeURLHere}" />
