@@ -1,11 +1,12 @@
 ## Hi Internet!! I,m Sigit Kevin Aprianda
 ![Banner](img/BannerGithubPNG.png)
-
+<div align="center"> 
+  <h3> Digital Footage Here 😈</h3>
+  div>
 <div align="center">
   <img src="https://profile-counter.glitch.me/SigitKevinAprianda/count.svg?"  />
 </div>
 
-### Digital Footage Here 😈
 
 ### 🛠️ Tech Stack
 - 🗺️ Programming: Java, Php
