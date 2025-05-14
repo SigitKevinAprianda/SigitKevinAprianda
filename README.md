@@ -9,7 +9,7 @@
 
 
 ### 🛠️ Tech Stack
-- 🗺️ Programming: Java, Php
+- 🗺️ Programming: <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />, Php
 - 📰 Web: HTML, CSS, JavaScript
 - 🔏 Database: Mysql
 - 🔧 Tools: Git, Terminal, Visual Studio Code, Figma, XAMPP, Intellij
