@@ -1,7 +1,7 @@
 ## Hi Internet!! I,m Sigit Kevin Aprianda
 ![Banner](img/BannerGithubPNG.png)
 
-<div style="text-align: center;">
+<div align=center;">
   <img src="https://profile-counter.glitch.me/SigitKevinAprianda/count.svg?"  />
 </div>
 
