@@ -32,11 +32,13 @@
 #### 📝 Word By Word
 - -- What makes us more proficient are the requests of the clients.
 - -- Seek your own freedom without depending on others. Don't be ... ah never mind.
-
+<div align="center"> 
+  <h3> 👾PACMANNN  </h3>
+</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SigitKevinAprianda/SigitKevinAprianda/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SigitKevinAprianda/SigitKevinAprianda/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SigitKevinAprianda/SigitKevinAprianda/output/pacman-contribution-graph.svg">
 </picture>
 
-### 👾pacMAN
+
