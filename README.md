@@ -9,7 +9,8 @@
 
 
 ### 🛠️ Tech Stack
-- 🗺️ Programming: <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />, Php
+- 🗺️ Programming:
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />, https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
 - 📰 Web: HTML, CSS, JavaScript
 - 🔏 Database: Mysql
 - 🔧 Tools: Git, Terminal, Visual Studio Code, Figma, XAMPP, Intellij
