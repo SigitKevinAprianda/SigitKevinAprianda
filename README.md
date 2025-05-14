@@ -2,7 +2,6 @@
 ![Banner](img/BannerGithubPNG.png)
 <div align="center"> 
   <h3> Digital Footage Here 😈</h3>
-  div>
 <div align="center">
   <img src="https://profile-counter.glitch.me/SigitKevinAprianda/count.svg?"  />
 </div>
