@@ -66,7 +66,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SigitKevinAprianda/SigitKevinAprianda/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SigitKevinAprianda/SigitKevinAprianda/output/pacman-contribution-graph.svg">
 </picture>
-
-###
+<br clear="both">
+<div align="center">
+<h6>她是我的日出,而我只是她的过云。</h6>
+</div>
 
 
