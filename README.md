@@ -55,6 +55,10 @@
 #### 📝 Word By Word
 - -- What makes us more proficient are the requests of the clients.
 - -- Seek your own freedom without depending on others. Don't be ... ah never mind.
+
+### 🎮 Play Together
+ ![MlbbIcon](img/MLBBICON.png)
+
 <div align="center"> 
   <h3> 👾PACMANNN  </h3>
   <p><i>under construction</i></p>
