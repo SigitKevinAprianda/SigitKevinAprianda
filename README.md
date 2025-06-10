@@ -61,7 +61,6 @@
 
 <div align="center"> 
   <h3> 👾PACMANNN  </h3>
-  <p><i>under construction</i></p>
 </div>
 <br clear="both">
 
@@ -72,7 +71,9 @@
 </picture>
 <br clear="both">
 <div align="center">
-<h6>她是我的日出,而我只是她的过云。</h6>
+<h4> AB + BC = AC </h4>
+  <h5>B who introduced A to C.... </h5>  
+  <h6>and then left alone</h6>
 </div>
 
 
